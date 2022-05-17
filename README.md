@@ -9,4 +9,4 @@ projects I have completed or colaborated on so far. In the contact me section it
 
 https://richmonddz.github.io/personal-port2/
 
-!(port.gif)
+![alt text](https://github.com/richmonddz/personal-port2/blob/main/port.gif)
