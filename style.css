@@ -42,6 +42,10 @@ h2 {
   font-family: "Press Start 2P", cursive;
 }
 
+.card-header {
+  margin-bottom: 20px;
+}
+
 .browser {
   display: grid;
   float: left;
@@ -74,6 +78,7 @@ h2 {
   display: flex;
   padding: 16rem;
   margin: -10rem;
+  margin-bottom: 10px;
 }
 
 h3 {
