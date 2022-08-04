@@ -9673,7 +9673,7 @@ h5,
   bottom: 40px;
   right: 1.5em;
   left: 1.5em;
-  font-size: 14px;
+  font-size: 23px;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.6);
   padding: 0 20px;
@@ -10541,7 +10541,7 @@ textarea.form-control {
   color: #000000;
 }
 .ftco-social li a:hover {
-  color: #fff;
+  color: #f05d23;
 }
 
 #map {
